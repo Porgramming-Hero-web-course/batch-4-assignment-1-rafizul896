@@ -1,4 +1,8 @@
 "use strict";
 {
-    console.log('hello');
+    // 
+    function sumArray(arr) {
+        return arr.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
+    }
+    // 
 }
