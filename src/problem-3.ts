@@ -8,6 +8,4 @@
         return total;
     }
 
-    console.log(countWordOccurrences("I love typescript", "typescript"))
-
 }
